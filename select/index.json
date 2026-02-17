@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "旅立ち",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-02-17T16:47:46.144309Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "旅立ち",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": true,
+      "path": "select/01_旅立ち_FUNKY_MONKEY_BABYS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "旅立ち",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/02_旅立ち_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いい日 旅立ち",
+      "artist": "山口百恵",
+      "has_synced": false,
+      "path": "select/03_いい日_旅立ち_山口百恵.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "旅立ち",
+      "artist": "菅野祐悟",
+      "has_synced": false,
+      "path": "select/04_旅立ち_菅野祐悟.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "旅立ち",
+      "artist": "Yugo Kanno",
+      "has_synced": false,
+      "path": "select/05_旅立ち_Yugo_Kanno.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "旅立ち",
+      "artist": "上原れな",
+      "has_synced": true,
+      "path": "select/06_旅立ち_上原れな.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "旅立ち",
+      "artist": "Uehara, Rena",
+      "has_synced": true,
+      "path": "select/07_旅立ち_Uehara,_Rena.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "旅立ち",
+      "artist": "adieu",
+      "has_synced": true,
+      "path": "select/08_旅立ち_adieu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "旅立ち",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/09_旅立ち_GReeeeN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "旅立ち",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_旅立ち_GReeeeN.txt"
+    }
+  ]
+}
